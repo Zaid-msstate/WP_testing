@@ -15,3 +15,5 @@ Steps:
 : <SCRIPT>alert('Hacked USING XSS')</SCRIPT>
 
 
+Enumerate_U
+<img src="https://github.com/Zaid-msstate/WP_testing/blob/master/xss.gif" width="800">
